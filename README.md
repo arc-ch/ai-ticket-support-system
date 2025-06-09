@@ -1,1 +1,1 @@
-# ai-ticket-support-system
+This project is an AI-powered ticket support system. It allows Users to submit Tickets for help via a web interface. When a new ticket is created, a background process managed by Inngest automatically uses AI Ticket Analysis to determine the ticket's priority, relevant skills, and helpful notes, and assigns it. The system also handles user authentication and administration through standard web routes via an Express App.
